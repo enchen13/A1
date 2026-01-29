@@ -8,10 +8,13 @@ body {
   font-family: system-ui, -apple-system, sans-serif;
   background: #fff;
   color: #000;
+  margin: 0;
+}
+
+.phone-frame {
   max-width: 375px;
-  min-height: 100vh;
   margin: 0 auto;
-  border: 1px solid #ccc;
+  border: 1px solid #000;
 }
 
 /* ----- Header ----- */
